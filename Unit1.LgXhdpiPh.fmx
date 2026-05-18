@@ -1,0 +1,11 @@
+inherited NumPlSolver2_LgXhdpiPh: TNumPlSolver2_LgXhdpiPh
+  ClientHeight = 696
+  ClientWidth = 448
+  DesignerMasterStyle = 3
+  inherited MainSlLayout: TScaledLayout
+    OriginalWidth = 448.000000000000000000
+    OriginalHeight = 696.000000000000000000
+    Size.Width = 448.000000000000000000
+    Size.Height = 696.000000000000000000
+  end
+end
